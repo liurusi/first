@@ -36,7 +36,7 @@
     |-ful||full of|Hurtful<br>Helpful<br>Careful<br>Graceful|
     |-ic||having characteristics of|Poetic<br>Linguistic|
     |-ing||to create verbs|Sleeping<br>Running<br>Crying|
-    |-ion<br>-tion<br>-ation||act,<br>process|Occassion<br>Motion<br>Relation<br>Attraction|
+    |-ion<br>-tion<br>-ation||the act of,<br>the process of|Occassion<br>Motion<br>Relation<br>Attraction|
     |-ity<br>-ty||state of|Activity<br>Society<br>Infinity|
     |-ive<br>-ative<br>-itive||an adjective|Active<br>Formative<br>Sensitive|
     |-less||without|Hopeless<br>Fearless<br>Helpless<br>Loveless|
